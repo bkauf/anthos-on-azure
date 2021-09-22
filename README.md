@@ -1,2 +1,3 @@
 # anthos-on-azure
-anthos on azure scripts
+
+``` source vars.sh  ```
